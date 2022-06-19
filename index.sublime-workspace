@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/sqlite/express-food_db.db3",
+		"/C/Users/cedri/Desktop/ExpressFood_bonche_cedric_022022/Bonche_Cedric_4_jeu_de_donnees_022022/insertion-donnees.txt",
+		"/C/Users/cedri/Desktop/ExpressFood_bonche_cedric_022022/Bonche_Cedric_4_jeu_de_donnees_022022/insertion-donnees.sql",
+		"/C/Users/cedri/Desktop/ExpressFood_bonche_cedric_022022/Bonche_Cedric_4_jeu_de_donnees_022022/creation-tables.sql",
+		"/D/user_cedric/Documents/Politique/liste-contact-insoumis.txt",
+		"/D/user_cedric/Documents/Développement/Themis-protect/images/images-site/Licence photos.txt",
+		"/C/wamp64/www/projetwp/wordpress/wp-config.php",
+		"/H/dev/6-cours Christophe reggex php/exo php reggex/exo fonction fixe php/index.php",
+		"/H/dev/6-cours Christophe reggex php/arbre/arbre_huffman.class.php",
+		"/C/wamp64/www/festival-des-films-de-plein-air-2022/index.html",
+		"/D/user_cedric/Documents/informatique/create-db-tables.1.2.1/create-db-tables/index.php",
+		"/C/wamp64/www/festival-des-films-de-plein-air-2022/css/style.css",
+		"/D/user_cedric/Documents/informatique/create-db-tables.1.2.1/create-db-tables/create-new-table.php",
+		"/D/user_cedric/Documents/informatique/create-db-tables.1.2.1/create-db-tables/create-db-tables.php",
+		"/D/user_cedric/Documents/informatique/vsc/settings.json",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/3-html webdesign/Livrable/PFILM_cedric_bonche/PFILM_02_codesource/index.html",
+		"/C/wamp64/www/formulaire/Test/style.css",
+		"/C/wamp64/www/formulaire/Test/index.html",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/Visuels+chalets-20190627T080943Z-001+(1)/sauvegarde_code-Parametres-hestatik-SEO.txt",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/cedric_bonche.html",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/model.html",
+		"/H/dev/4-Chandra-HTML-CSS/eval/maquettage-app user chris ced/www/contact.html",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/css/mon.css",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/realywebsite.html",
+		"/C/wamp64/www/projetwp/cinema/www/nos-films.html",
+		"/C/wamp64/www/projetwp/06-maquettage-app/www/guide.html",
+		"/C/wamp64/www/projetwp/amelioration-projet-maquettage-app/www/guide.html",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/css/front.min.css",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/css/es-style.css",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/index.html",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/css/style.css",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/www/css/style_cv.css",
+		"/C/wamp64/www/formulaire/formulaire/define.php",
+		"/H/dev/4-Chandra-HTML-CSS/eval/eval-cedric-b-html-css/www/css/style.css",
+		"/H/dev/Projet covoiturage/plugins/covoitudiant/functions.php",
+		"/H/dev/Projet covoiturage/plugins/covoitudiant/covoitudiant.php",
+		"/H/dev/4-Chandra-HTML-CSS/eval/eval-cedric-b-html-css/www/css/animate.css",
+		"/H/dev/4-Chandra-HTML-CSS/eval/maquettage-app user chris ced/www/testcontact.html",
+		"/C/wamp64/www/formulaire/TP-Forms-Correction/index.php",
+		"/C/wamp64/www/formulaire/TP-Forms-Correction/define.php",
+		"/C/wamp64/www/formulaire/formulaire/index.php",
+		"/C/wamp64/www/formulaire/formulaire/formulaire.css",
+		"/C/wamp64/www/formulaire/formulaire/formulaire.js",
+		"/H/dev/4-Chandra-HTML-CSS/eval/06-maquettage-app/www/guide.html",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/elements/brout/style.css",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/elements/brout.html",
+		"/H/dev/4-Chandra-HTML-CSS/05-bootstrap/www/index.html",
+		"/H/dev/4-Chandra-HTML-CSS/05-bootstrap/www/css/styles.css",
+		"/H/dev/4-Chandra-HTML-CSS/ameliorer le projet/06-maquettage-app/www/css/animate.css",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/elements/structurez-votre-cv_exemple-2019-01-03T081950/activite_partie1/mathieu_nebra.html",
+		"/D/user_cedric/Documents/formation/open classroom perso/contenu de formation openclassrooms Développeur d'application - PHP_Symfony/2-Wordpress/cours/HTML5-css3/mon site/elements/index.html",
+		"/D/user_cedric/Téléchargements/structurez-votre-cv_exemple-2019-01-03T081950/activite_partie1/mathieu_nebra.html",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/wordpress2/wp-content/plugins/notify-update-par-jm-crea/index.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/TP_8_guillaume_m/index.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/TP_8_guillaume_m/admin/func_admin.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/TP_8_guillaume_m/admin/addusers.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/covoitudiant/wp-content/plugins/covoitudiant/functions.php",
+		"/D/user_cedric/Documents/Développement/four tout/RewriteCond %{SERVER_PORT} !^443$",
+		"/C/wamp64/www/projetwp/wordpress/wp-content/plugins/infomaj2/structureInfomaj2.php",
+		"/C/wamp64/www/projetwp/wordpress/wp-content/plugins/infomaj2/infomaj2.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/plugins/rdv360-reservation-en-ligne/rdv360-reservation.php",
+		"/D/user_cedric/Documents/Développement/four tout/register_activation_hook(__FILE__, 'mon_activation",
+		"/D/user_cedric/Documents/Développement/delfia/css_page_reservation.css",
+		"/D/user_cedric/Documents/Développement/delfia/sauvegarde au 27 mars 2021/preprod/wp-content/plugins/oui-booking/obk-admin-bookings-taxes.php",
+		"/D/user_cedric/Documents/Développement/delfia/sauvegarde au 27 mars 2021/preprod/wp-config.php",
+		"/D/wp-config.php",
+		"/C/Users/cedri/wp-config.php",
+		"/C/Users/cedri/options-permalink.php",
+		"/C/Users/cedri/wp-cache-config.php",
+		"/C/Users/cedri/index.php",
+		"/D/user_cedric/Documents/Développement/delfia/sauvegarde au 27 mars 2021/index.php",
+		"/D/user_cedric/Documents/Développement/delfia/sauvegarde au 27 mars 2021/preprod/wp-blog-header.php",
+		"/D/user_cedric/Documents/Développement/delfia/sauvegarde au 27 mars 2021/preprod/wp-includes/template-loader.php",
+		"/D/user_cedric/Documents/Développement/delfia/sauvegarde au 27 mars 2021/preprod/wp-load.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/themes/wallstreet/functions/menu/default_menu_walker.php",
+		"/C/Users/cedri/wp-blog-header.php",
+		"/D/user_cedric/Documents/Développement/delfia/sauvegarde au 27 mars 2021/preprod/index.php",
+		"/D/index.php",
+		"/D/user_cedric/Documents/Développement/delfia/prod/wp-config.php",
+		"/C/wamp64/www/projetwp/preprod/index.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/cache/supercache/index.html",
+		"/C/wamp64/www/projetwp/preprod/wp-content/cache/index.html",
+		"/G/dev/récupération asus/informatique/CedricBonche_evalBackoff_mars/storyConnect.php",
+		"/G/dev/récupération asus/informatique/CedricBonche_evalBackoff_mars/index.php",
+		"/G/dev sfb/new site/wp-updates-notifier/class-sc-wp-updates-notifier.php",
+		"/G/dev sfb/new site/modèle prog pour wp/model plugin",
+		"/C/wamp64/www/projetwp/preprod/wp-content/plugins/rdv360-reservation-en-ligne/js/iframeResizer.min.js",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/covoitudiant/wp-content/plugins/covoitudiant/covoitudiant.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/wp-cache-config.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/index.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/wflogs/template.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/wflogs/attack-data.php",
+		"/C/wamp64/www/projetwp/preprod/wp-content/uploads/form-maker-frontend/index.html",
+		"/C/wamp64/www/projetwp/preprod/wp-content/cache/autoptimize/index.html",
+		"/C/wamp64/www/projetwp/test.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/wordpress2/wp-content/plugins/post-types-order/post-types-order.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/covoitudiant/wp-content/plugins/covoitudiant/autocomplete.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/maquettage-app -chris-ced/www/index.html",
+		"/D/user_cedric/style.css",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/maquettage-app -chris-ced/www/css/style.css",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/maquettage-app -chris-ced/www/demarrage.html",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/tp_formulaire/index.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/tp_formulaire/formulaire.js",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/maquettage-app -chris-ced/www/mon-profile.html",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/covoitudiant/wp-content/plugins/covoitudiant/js/covoitjs.js",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/tp_formulaire/define.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/tp_formulaire/formulaire.css",
+		"/G/dev/récupération asus/informatique/CedricBonche_evalBackoff_mars/fichier_user.txt",
+		"/G/dev/revision/democontroller/index.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/wordpress2/wp-content/plugins/post-types-order/include/class.options.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/wordpress2/wp-content/plugins/post-types-order/compatibility/the-events-calendar.php",
+		"/D/user_cedric/Documents/informatique/récupération wamp/www/wordpress2/wp-content/plugins/post-types-order/compatibility/LiteSpeed_Cache.php",
+		"/D/user_cedric/Documents/informatique/create-db-tables.1.2.1/create-db-tables/pages/view-table-data.php",
+		"/D/user_cedric/Documents/informatique/create-db-tables.1.2.1/create-db-tables/pages/table-edit.php",
+		"/C/wamp64/www/projetwp/infomaj2/infomaj2.php",
+		"/D/user_cedric/Documents/informatique/create-db-tables.1.2.1/create-db-tables/pages/index.php",
+		"/C/wamp64/bin/php/php7.3.12/php.exe"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
